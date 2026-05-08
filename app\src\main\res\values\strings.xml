@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rokid ChatGPT</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Status labels -->
+    <string name="status_idle">Tap the mic to start</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_thinking">Thinking…</string>
+    <string name="status_speaking">Speaking…</string>
+
+    <!-- Main screen -->
+    <string name="label_transcript">You said:</string>
+    <string name="hint_transcript">Your speech will appear here…</string>
+    <string name="label_response">ChatGPT:</string>
+    <string name="hint_response">Response will appear here…</string>
+    <string name="btn_clear_history">Clear history</string>
+    <string name="fab_listen_desc">Start / stop listening</string>
+
+    <!-- Settings -->
+    <string name="label_api_key">OpenAI API Key</string>
+    <string name="hint_api_key">sk-…</string>
+    <string name="label_model">Model</string>
+    <string name="label_system_prompt">System Prompt</string>
+    <string name="hint_system_prompt">Enter system prompt…</string>
+    <string name="btn_reset">Reset</string>
+    <string name="label_max_tokens">Max Tokens (100–4096)</string>
+    <string name="hint_max_tokens">512</string>
+    <string name="label_max_history">Max History Pairs (1–20)</string>
+    <string name="hint_max_history">6</string>
+    <string name="label_voice_enabled">Voice (TTS) enabled</string>
+    <string name="label_auto_send">Auto-send on silence</string>
+    <string name="btn_save">Save Settings</string>
+</resources>
